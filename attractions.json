@@ -1,0 +1,11 @@
+{
+    "Attractions":[
+        {"attractionName": "attraction 1", "attractionLength": "8 mins", "attractionDesc": "attraction 1 description"},
+        {"attractionName": "attraction 2", "attractionLength": "6 mins", "attractionDesc": "attraction 2 description"},
+        {"attractionName": "attraction 3", "attractionLength": "15 mins", "attractionDesc": "attraction 3 description"},
+        {"attractionName": "attraction 4", "attractionLength": "11 mins", "attractionDesc": "attraction 4 description"},
+        {"attractionName": "Garden 1", "attractionLength": "0.8 Acres", "attractionDesc": "Garden 1 description"},
+        {"attractionName": "Garden 2", "attractionLength": "2.3 Acres", "attractionDesc": "Garden 2 description"}
+    ]
+
+}
