@@ -17,10 +17,10 @@
     },
     {
         "waitName": "Garden 1",
-        "waitLength": "0.8 Acres",
+        "waitLength": "2 mins",
     },
     {
         "waitName": "Garden 2",
-        "waitLength": "2.3 Acres",
+        "waitLength": "0 mins",
     }
 ]
