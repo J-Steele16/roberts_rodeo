@@ -1,32 +1,32 @@
 [
     {
-        "attractionName": "attraction 1",
+        "attractionName": "Thunderbolt Tempest",
         "attractionLength": "8 mins",
-        "attractionDesc": "attraction 1 description"
+        "attractionDesc": "Thunderbolt Tempest is a thrilling rollercoaster with a 360-degree loop and rapid drops, mimicking a storm's wild energy. Perfect for adrenaline seekers!"
     },
     {
-        "attractionName": "attraction 2",
+        "attractionName": "Cyclone Fury",
         "attractionLength": "6 mins",
-        "attractionDesc": "attraction 2 description"
+        "attractionDesc": "Cyclone Fury is an electrifying rollercoaster featuring sharp spirals and steep dives, capturing the chaos of a cyclone. Ideal for thrill enthusiasts!"
     },
     {
-        "attractionName": "attraction 3",
+        "attractionName": "Lightning Lancer",
         "attractionLength": "15 mins",
-        "attractionDesc": "attraction 3 description"
+        "attractionDesc": "Lightning Lancer is an exhilarating rollercoaster with high-speed twists and sudden vertical drops, evoking the thrill of a lightning strike. A must for adventure lovers!"
     },
     {
-        "attractionName": "attraction 4",
+        "attractionName": "kyfire Sprint",
         "attractionLength": "11 mins",
-        "attractionDesc": "attraction 4 description"
+        "attractionDesc": "Skyfire Sprint is a pulse-pounding rollercoaster with swift loops and sharp descents, designed to mirror the intensity of a meteor shower. Perfect for thrill seekers!"
     },
     {
-        "attractionName": "Garden 1",
+        "attractionName": "Mystic Meadow",
         "attractionLength": "0.8 Acres",
-        "attractionDesc": "Garden 1 description"
+        "attractionDesc": "Mystic Meadow is a serene garden space adorned with fragrant blooms and whispering willows, designed to transport visitors to a tranquil, fairy-tale world. Ideal for nature lovers!"
     },
     {
-        "attractionName": "Garden 2",
+        "attractionName": "Enchanted Eden",
         "attractionLength": "2.3 Acres",
-        "attractionDesc": "Garden 2 description"
+        "attractionDesc": "Enchanted Eden is a lush garden oasis featuring winding paths and vibrant floral arches, creating a magical escape into nature’s embrace. Perfect for relaxation seekers!"
     }
 ]
